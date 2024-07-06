@@ -26,5 +26,3 @@ Technologies Used:
 
 This project exemplifies the fusion of AI technology with classic board games, offering an educational and entertaining platform for chess enthusiasts. Our AI Chess Game not only challenges players but also helps them improve their strategic thinking and decision-making skills.
 
-hashtag#AIChessGame hashtag#ChessAI hashtag#Stockfish hashtag#PythonChess hashtag#Pygame hashtag#ChessStrategy hashtag#AIVsAI hashtag#PlayerVsAI hashtag#ChessDevelopment hashtag#OpenSourceChess hashtag#MachineLearningChess hashtag#InteractiveChess
-hashtag#ChessAIAlgorithms hashtag#AIChessProgramming hashtag#ChessProject hashtag#AIPoweredChess hashtag#PythonDevelopment hashtag#ChessGUIDesign hashtag#AdvancedChessAI hashtag#ChessEngineIntegration
